@@ -8,7 +8,7 @@ You would need the following:
 3. A Laptop or Desktop (hereafter called "PC") where this code is open in some code editor (like VS Code)
 4. Singular WiFi or Mobile Hotspot connection to which BOTH the smartphone and the PC are connected.
 5. A fairly fast connection speed in the WiFi or Mobile Hotspot used.
-6. The Zip file of this project downloaded and unzipped in the desired location in your PC
+6. The Zip file of this project (Node Modules must be downloaded separately) downloaded and unzipped in the desired location in your PC
 
 ### How to view the demo of this app?
 You would first need to open the code editor of your choice (Example: We used VS Code throughout the project).
